@@ -133,13 +133,3 @@ Note: `scheduler.py` demonstrates scheduling using the `schedule` package and ru
 ## License
 
 Add a LICENSE file if you plan to open-source this project. (No license included here by default.)
-
----
-
-If you'd like, I can:
-- Add and commit this README.md to the repository for you,
-- Update `requirements.txt` to use `python-dotenv` instead of `dotenv`,
-- Create a minimal GitHub Actions workflow to run the script on a schedule,
-- Or make other edits (improve logging, add retries, etc.)
-
-What would you like me to do next? Do you want this README pushed into the repo now or any edits to its content?
