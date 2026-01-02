@@ -14,7 +14,8 @@ This will be four weeks of curricula
 	- DELETE
   - We have Already Covered the Basics of SQL [here](https://github.com/anshulkansal121/Python-Programming/tree/main/SQL)
 - Python
-  - (coming soon)
+  - In this we have created a Stock trading app, using Polygon API and requests we have imported the data from the API and Exported it in CSV.
+  - The Data extracted is about Stock that includes Ticker, Price, Last_update and other information.
 - Data Modeling 
   - (coming soon)
 - Data Pipelines
